@@ -6,7 +6,7 @@ kind: ClusterConfig
 metadata:
  name: ${AOK_EKS_CLUSTER_NAME}
  region: ${AOK_AWS_REGION}
- version: "1.18"
+ version: "1.21"
 
 availabilityZones: ["${AOK_AWS_REGION}a", "${AOK_AWS_REGION}b", "${AOK_AWS_REGION}c"]
 
