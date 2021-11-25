@@ -1,5 +1,5 @@
 # AIRFLOW-ON-AWS-EKS
-Running Airflow Workflow Jobs on Amazon EKS with EC2 Spot Instances
+"Running Airflow on Amazon EKS with EC2 OnDemand & Spot Instances"
 
 This Repo contains all documents related to deploy AIRFLOW ON EKS.
 
